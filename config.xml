@@ -1,0 +1,9 @@
+<module>
+	<name>Slideproduct</name>
+	<displayName>Modulo slide productos</displayName>
+	<version>1.4</version>
+	<description>Slide productos home</description>
+	<author></author>
+	<tab>front_office_features</tab>
+	<is_configurable>1</is_configurable>
+</module>
